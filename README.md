@@ -1,4 +1,4 @@
-### Hi, I'm China 👋,
+### 👋 Hi, I'm China,
 
 An aspiring data analyst with a passion for working with data to gain insights and drive business decisions. After realizing my interest in data analytics, I decided to make a career change and have been teaching myself various skills in SQL, Python, and Tableau to better understand and analyze data. Through building projects, I have gained experience in data cleaning, exploration, visualization, and storytelling.
 
